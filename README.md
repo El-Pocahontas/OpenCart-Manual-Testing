@@ -23,14 +23,13 @@ This portfolio demonstrates practical manual testing skills, including requireme
 OpenCart-Manual-Testing/
 ```
 ├── README.md
-├── 01.RFS.pdf
+├── 01.FRS.pdf
 ├── 02.Test_Plan.pdf
-├── 03.Test_Scenario.ods
+├── 03.Test_Scenarios.ods
 ├── 04.Test_Cases.ods
 ├── 05.Bug_Report.ods
 ├── 06.RTM.ods
-├── 07.Notes_Manual_Testing.txt
-└── 08.Screenshots/
+└── Screenshots/
     ├── OC-BUG-3.png
     ├── OC-BUG-8.png
     └── ...
@@ -97,7 +96,6 @@ Remaining 26 scenarios are **defined only** and will be executed incrementally.
 - Reported and documented bugs with reproduction steps and screenshots (stored in `/screenshots/`)  
 - Created RTM to map requirements → test cases → bugs  
 - Organized and structured all documentation for GitHub presentation  
-- Summarized manual testing theory and STLC/SDLC concepts  
 
 ---
 
@@ -119,9 +117,10 @@ Additional test cases may be added in the future as the project evolves.
 3. Explore `Test_Cases.ods` for detailed execution steps.  
 4. Check `Bug_Report.ods` for identified issues (screenshots in `/screenshots/`).  
 5. Use `RTM.ods` to trace coverage.  
-6. Browse `Notes_Manual_Testing.txt` for theoretical background.
 
 
 ---
 
 
+![Tests](https://img.shields.io/badge/tests-142%20executed-green)
+![Bugs](https://img.shields.io/badge/bugs-21%20found-red)
