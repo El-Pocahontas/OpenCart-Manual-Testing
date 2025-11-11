@@ -1,5 +1,9 @@
 # 🛒 OpenCart Manual Testing
 
+![Status](https://img.shields.io/badge/status-in--progress-yellow)
+![Tests](https://img.shields.io/badge/tests-142%20executed-green)
+![Bugs](https://img.shields.io/badge/bugs-21%20found-red)
+
 This repository documents a manual testing project for the [OpenCart Demo Application](https://demo.opencart.com), based on the SDET-QA course by Pavan Kumar.  
 All core artifacts (FRS, Test Plan, Test Scenarios, Test Cases, Bug Reports) originate from the course and were used for learning and practice purposes.
 
@@ -101,7 +105,6 @@ Remaining 26 scenarios are **defined only** and will be executed incrementally.
 
 ## 🚧 Project Status
 
-![Status](https://img.shields.io/badge/status-in--progress-yellow)
 
 This manual testing portfolio is a **work in progress**.  
 Currently, 5 out of 31 defined test scenarios have been fully executed.  
@@ -121,6 +124,3 @@ Additional test cases may be added in the future as the project evolves.
 
 ---
 
-
-![Tests](https://img.shields.io/badge/tests-142%20executed-green)
-![Bugs](https://img.shields.io/badge/bugs-21%20found-red)
